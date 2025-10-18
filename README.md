@@ -1,4 +1,4 @@
-# MERN App Repository
+# MERN App
 
 ## Projects Included
 
